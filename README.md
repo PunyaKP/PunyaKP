@@ -183,14 +183,33 @@ MCA Student | Software Development | Data Analytics | AI/ML | Generative AI | Cl
 
 ---
 
-# 📊 GitHub Analytics
+<!-- GitHub Analytics -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
+  <a href="https://github.com/punyakp">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=punyakp&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
+  </a>
+  <a href="https://github.com/punyakp">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punyakp&layout=compact&langs_count=8&hide_border=true&border_radius=10" />
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=punyakp&show_icons=true&hide_border=true&rank_icon=github&theme=default" width="48%" />
+<!-- GitHub Streak -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punyakp&layout=compact&hide_border=true&theme=default" width="40%" />
+<h2 align="center">🔥 Contribution Streak</h2>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punyakp&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
+
+<!-- Contribution Graph -->
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=punyakp&hide_border=true&area=true" alt="Contribution Activity Graph" />
 </p>
 
 # 🔥 Contribution Streak
