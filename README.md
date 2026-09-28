@@ -187,13 +187,11 @@ MCA Student | Software Development | Data Analytics | AI/ML | Generative AI | Cl
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=punyakp&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&custom_title=Punya%20KP's%20GitHub%20Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=punyakp&show_icons=true&hide_border=true&rank_icon=github&theme=default" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punyakp&layout=compact&langs_count=8&hide_border=true&custom_title=Most%20Used%20Languages" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punyakp&layout=compact&hide_border=true&theme=default" width="40%" />
 
 </p>
-
----
 
 # 🔥 Contribution Streak
 
